@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<img src="https://github.githubassets.com/images/mona-whisper.gif">
+- 📫 How to reach me: 
+- [![Linkedin Badge](https://img.shields.io/badge/-AngelaCaperuzzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angela-caperuzzo-884b71207//)](https://www.linkedin.com/in/angela-caperuzzo-884b71207/)
 <!--
 **AngelaCaperuzzo/AngelaCaperuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
