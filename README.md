@@ -5,7 +5,7 @@
 
 -[![Linkedin Badge](https://img.shields.io/badge/-AngelaCaperuzzo-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/angela-caperuzzo-884b71207/)](https://www.linkedin.com/in/angela-caperuzzo-884b71207/)
 
-- 🌱 I’m currently learning: Java, Spring-Boot, MYSQL.
+- 🌱 I’m currently learning: Python, Linux, Japan and DevOps.
 <!--
 **AngelaCaperuzzo/AngelaCaperuzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
