@@ -3,7 +3,7 @@
 
 -📫 How to reach me: 
 
--[![Linkedin Badge](https://img.shields.io/badge/-AngelaCaperuzzo-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/angela-caperuzzo-884b71207/)](https://www.linkedin.com/in/angela-caperuzzo-884b71207/)
+-[![Linkedin Badge](www.linkedin.com/in/angela-caperuzzo-1364a1334)
 
 - 🌱 I’m currently learning: C#, Linux and Japanese.
 <!--
